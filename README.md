@@ -163,7 +163,7 @@ This system allows multiple companies to manage tasks independently, where **Man
 ##  Setup Instructions
 
 ```bash
-git clone https://github.com/<your-username>/Secure-MultiTenant-Task-Management.git
+git clone https://github.com/simha-p/Secure-MultiTenant-Task-Management.git
 cd Secure-MultiTenant-Task-Management
 
 python -m venv venv

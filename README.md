@@ -152,17 +152,15 @@ This system allows multiple companies to manage tasks independently, where **Man
 
 ---
 
-## 🛠️ Django Admin (Verification Only)
+## Django Admin (Verification Only)
 
 - Used only for internal verification
 - Confirms persistence of API-created data
 - Not used as application UI
 
-> In production, Django Admin is restricted to ops users.
-
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ```bash
 git clone https://github.com/<your-username>/Secure-MultiTenant-Task-Management.git
